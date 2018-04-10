@@ -1,0 +1,25 @@
+{
+  "name": "99_bottles_of_beer",
+  "version": "1.0.0",
+  "description": "the entire \"99 bottles of beer on the wall\" song",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run-tests.js && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summer00072/99_bottles_of_beer.git"
+  },
+  "keywords": [
+    "3724839liLI0723"
+  ],
+  "author": "summer00072",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summer00072/99_bottles_of_beer/issues"
+  },
+  "homepage": "https://github.com/summer00072/99_bottles_of_beer#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
